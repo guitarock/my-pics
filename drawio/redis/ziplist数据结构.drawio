@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T09:10:19.721Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="nwxi2jYqW7eHUfMZSzLI" version="15.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T09:12:20.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="dvEkUzeEOcjNC3o6VnKZ" version="15.9.5" type="github">
   <diagram id="AsPG1sqcEy5ZO-IUigUk" name="第 1 页">
     <mxGraphModel dx="1488" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -96,6 +96,11 @@
             <mxPoint x="340" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-70" value="entry数据结构" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="89Xa8MBcNrt8iYYgglH2-48">
+          <mxGeometry x="-0.1425" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="89Xa8MBcNrt8iYYgglH2-49" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;labelBackgroundColor=default;sketch=0;fontSize=14;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry x="230" y="520" width="230" height="40" as="geometry" />
         </mxCell>
@@ -127,7 +132,13 @@
           <mxGeometry x="309" y="570" width="78" height="19" as="geometry" />
         </mxCell>
         <mxCell id="89Xa8MBcNrt8iYYgglH2-67" value="前一个数据项占用的总字节数" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=default;sketch=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="10" y="530" width="200" height="20" as="geometry" />
+          <mxGeometry y="530" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-68" value="当前数据项的数据长度" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=default;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="274" y="600" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-69" value="&lt;div style=&quot;line-height: 1.75 ; text-align: left&quot;&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;真正的数据&lt;/font&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=default;sketch=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="525" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
