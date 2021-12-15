@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T12:40:51.546Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="LzovNodNgJdTrKfq687F" version="15.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T12:41:14.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="UUsH-K7E-1ruIWMv96Tc" version="15.9.5" type="github">
   <diagram id="AsPG1sqcEy5ZO-IUigUk" name="第 1 页">
-    <mxGraphModel dx="2315" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -811,8 +811,8 @@
         <mxCell id="89Xa8MBcNrt8iYYgglH2-271" value="最高位 10，使用 32 位表示长度，最大只 2^32-1" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="165" y="1270" width="310" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="89Xa8MBcNrt8iYYgglH2-272" value="&lt;div style=&quot;line-height: 1.75 ; text-align: left&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;以上三种情况下，&lt;data&gt;&amp;nbsp;&amp;lt;data&amp;gt;&amp;nbsp;&lt;/data&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;都是按字符串来存储的&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="409" y="1320" width="410" height="40" as="geometry" />
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-272" value="&lt;div style=&quot;line-height: 1.75 ; text-align: left&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;以上三种情况下，&lt;data&gt;&amp;nbsp;&amp;lt;data&amp;gt;&lt;/data&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;都是按字符串来存储的&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1320" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="89Xa8MBcNrt8iYYgglH2-273" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;labelBackgroundColor=default;sketch=0;fontSize=14;gradientColor=none;gradientDirection=radial;" vertex="1" parent="1">
           <mxGeometry y="840" width="230" height="40" as="geometry" />
@@ -877,8 +877,8 @@
             <mxPoint x="400" y="1899.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="89Xa8MBcNrt8iYYgglH2-296" value="&lt;div style=&quot;line-height: 1.75 ; text-align: left&quot;&gt;&lt;div style=&quot;line-height: 1.75&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;以下四种情况下，&lt;data&gt;&amp;nbsp;&lt;/data&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&amp;lt;data&amp;gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;都是按整数来存储的&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="-5" y="1400" width="390" height="40" as="geometry" />
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-296" value="&lt;div style=&quot;line-height: 1.75 ; text-align: left&quot;&gt;&lt;div style=&quot;line-height: 1.75&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;以下四种情况下，&lt;data&gt;&amp;nbsp;&lt;/data&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&amp;lt;data&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;都是按整数来存储的&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry y="1400" width="380" height="40" as="geometry" />
         </mxCell>
         <mxCell id="89Xa8MBcNrt8iYYgglH2-297" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;值为 0xC0，&lt;span style=&quot;text-align: left&quot;&gt;&amp;lt;data&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;span&gt;存储为 2 个字节的 int16_t 类型&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="394.5" y="1450" width="330" height="20" as="geometry" />
