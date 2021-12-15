@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T12:19:31.512Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="dktRrMxuFhq4K1ZgNtwS" version="15.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-15T12:26:26.758Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="9_sp-ign5i4FPiyFwMkT" version="15.9.5" type="github">
   <diagram id="AsPG1sqcEy5ZO-IUigUk" name="第 1 页">
     <mxGraphModel dx="1094" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -878,7 +878,22 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="89Xa8MBcNrt8iYYgglH2-296" value="&lt;div style=&quot;line-height: 1.75 ; text-align: left&quot;&gt;&lt;div style=&quot;line-height: 1.75&quot;&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;以下四种情况下，&lt;data&gt;&amp;nbsp;&lt;/data&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;&amp;lt;data&amp;gt;&lt;/span&gt;&lt;span style=&quot;font-size: 18px&quot;&gt;都是按整数来存储的&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="10" y="1840" width="380" height="40" as="geometry" />
+          <mxGeometry y="1840" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-297" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font&gt;值为 0xC0，&lt;span style=&quot;text-align: left&quot;&gt;&amp;lt;data&amp;gt;&lt;/span&gt;&lt;/font&gt;&lt;span&gt;存储为 2 个字节的 int16_t 类型&lt;/span&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="404.5" y="1890" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-298" value="&lt;div style=&quot;text-align: left&quot;&gt;值为 0xD0，&amp;lt;data&amp;gt; 存储为 4 个字节的 int32_t 类型&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1970" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-299" value="&lt;div style=&quot;text-align: left&quot;&gt;值为 0xE0，&amp;lt;data&amp;gt; 存储为 8 个字节的 int64_t 类型&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2050" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-300" value="&lt;div style=&quot;text-align: left&quot;&gt;值为 0xF0，&amp;lt;data&amp;gt; 存储为 3 个字节长的整数&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="2130" width="300" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="89Xa8MBcNrt8iYYgglH2-301" value="&lt;div style=&quot;text-align: left&quot;&gt;值为 0xFE，&amp;lt;data&amp;gt; 存储为 1 个字节的整数&lt;br&gt;&lt;/div&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;labelBackgroundColor=none;sketch=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="399.5" y="2210" width="280" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
