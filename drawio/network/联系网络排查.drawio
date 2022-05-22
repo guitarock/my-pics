@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2022-05-22T17:09:14.180Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" version="16.1.0" etag="jV_y5aFE2H1Tys7jsr09" type="github"><diagram id="GWpRpeGjEKe3ksnDSzDJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-22T17:36:48.923Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="rv4U-GqOpJsOM6YIx8ow" version="16.1.0" type="github">
+  <diagram id="GWpRpeGjEKe3ksnDSzDJ" name="第 1 页">
+    <mxGraphModel dx="1484" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="OKV4vg5DVmfakhxroXS2-1" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="800" as="sourcePoint" />
+            <mxPoint x="240" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-2" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="800" as="sourcePoint" />
+            <mxPoint x="560" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-3" value="&lt;font style=&quot;font-size: 18px&quot;&gt;客户端58315&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-4" value="&lt;font style=&quot;font-size: 18px&quot;&gt;服务端80&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="505" y="120" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-5" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="240" as="sourcePoint" />
+            <mxPoint x="560" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-6" value="&lt;font style=&quot;font-size: 14px&quot;&gt;2. FIN + ACK&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;rotation=11;" vertex="1" parent="1">
+          <mxGeometry x="349" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-7" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="430" as="sourcePoint" />
+            <mxPoint x="239" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239" y="300" as="sourcePoint" />
+            <mxPoint x="559" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-9" value="&lt;font style=&quot;font-size: 14px&quot;&gt;3. FIN（retransmission）&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;rotation=12;" vertex="1" parent="1">
+          <mxGeometry x="314" y="300" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-10" value="4. Spurious Retransmission Continuation" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;rotation=355;" vertex="1" parent="1">
+          <mxGeometry x="264" y="420" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="190" as="sourcePoint" />
+            <mxPoint x="239" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-12" value="1. Continuation" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;rotation=355;" vertex="1" parent="1">
+          <mxGeometry x="344" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239" y="510" as="sourcePoint" />
+            <mxPoint x="559" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-14" value="&lt;font style=&quot;font-size: 14px&quot;&gt;5. ACK(Continuation)&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;rotation=11;" vertex="1" parent="1">
+          <mxGeometry x="324" y="510" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-15" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="610" as="sourcePoint" />
+            <mxPoint x="239" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-16" value="6. ACK(回复2的)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;rotation=355;" vertex="1" parent="1">
+          <mxGeometry x="339" y="600" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-17" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="559" y="650" as="sourcePoint" />
+            <mxPoint x="239" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-18" value="7. ACK(Duplicate ACK)" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=14;rotation=355;" vertex="1" parent="1">
+          <mxGeometry x="319" y="640" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-19" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="239" y="720" as="sourcePoint" />
+            <mxPoint x="559" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OKV4vg5DVmfakhxroXS2-20" value="&lt;font style=&quot;font-size: 14px&quot;&gt;8. RST&lt;br&gt;&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;rotation=11;" vertex="1" parent="1">
+          <mxGeometry x="368" y="720" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
