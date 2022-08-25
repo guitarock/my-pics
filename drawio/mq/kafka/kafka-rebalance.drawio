@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T09:46:48.277Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6igcwJ-D9_8Pktd0sRDc" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T09:59:40.316Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="syRnGeSCAgHv27h1bFJW" version="20.2.2" type="github">
   <diagram id="HhjXPJS-7uaV8t8p5f1u" name="第 1 页">
     <mxGraphModel dx="1865" dy="1748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           <mxGeometry x="30" y="1080" width="420" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7gVdF0R3puTZTDRzPLGD-27" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;EV1N-1661261909076&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{&amp;quot;version&amp;quot;:1},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;Siz3-1661261909075&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;注册、成员管理记录等元数据管理操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;a1. Consumer Group&lt;/span&gt;发起请求&lt;/font&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;rotation=0;" vertex="1" parent="1">
-          <mxGeometry x="290" y="725" width="210" height="50" as="geometry" />
+          <mxGeometry x="310" y="725" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7gVdF0R3puTZTDRzPLGD-29" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;entryX=0.995;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="7gVdF0R3puTZTDRzPLGD-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -190,7 +190,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="7gVdF0R3puTZTDRzPLGD-65" value="Text" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="370" width="40" height="20" as="geometry" />
+          <mxGeometry x="-70" y="380" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="7gVdF0R3puTZTDRzPLGD-66" value="分区3" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="160" y="550" width="120" height="60" as="geometry" />
