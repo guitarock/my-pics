@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-25T07:48:37.263Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_riwP61qH6PvI2VIvdIE" version="20.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-25T07:52:46.336Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="fCt16H19ZHsBaQDi9HYM" version="20.2.2" type="github">
   <diagram id="HhjXPJS-7uaV8t8p5f1u" name="第 1 页">
     <mxGraphModel dx="1038" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
           <mxGeometry x="150" y="740" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="7gVdF0R3puTZTDRzPLGD-20" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;EV1N-1661261909076&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{&amp;quot;version&amp;quot;:1},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;Siz3-1661261909075&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;Broker&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;Broker&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="170" y="660" width="80" height="50" as="geometry" />
+          <mxGeometry x="40" y="670" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="7gVdF0R3puTZTDRzPLGD-25" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;EV1N-1661261909076&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{&amp;quot;version&amp;quot;:1},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;Siz3-1661261909075&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;注册、成员管理记录等元数据管理操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;执行消费组的注册、成员管理记录等元数据管理操作&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="5" y="970" width="440" height="50" as="geometry" />
@@ -115,7 +115,7 @@
         <mxCell id="7gVdF0R3puTZTDRzPLGD-49" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;topic&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="50" y="720" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7gVdF0R3puTZTDRzPLGD-50" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7gVdF0R3puTZTDRzPLGD-13">
+        <mxCell id="7gVdF0R3puTZTDRzPLGD-50" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7gVdF0R3puTZTDRzPLGD-13" target="7gVdF0R3puTZTDRzPLGD-41">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="625" y="590" as="sourcePoint" />
             <mxPoint x="410" y="480" as="targetPoint" />
@@ -125,8 +125,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7gVdF0R3puTZTDRzPLGD-53" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;abs(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;hashcode(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: left;&quot;&gt;group.id&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;)%分区数&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="450" y="440" width="235" height="30" as="geometry" />
+        <mxCell id="7gVdF0R3puTZTDRzPLGD-53" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;b1.&amp;nbsp; abs(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;hashcode(&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); text-align: left;&quot;&gt;group.id&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;)%分区数&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;)&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7gVdF0R3puTZTDRzPLGD-54" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="7gVdF0R3puTZTDRzPLGD-41" target="7gVdF0R3puTZTDRzPLGD-14">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="30" y="490" as="sourcePoint" />
+            <mxPoint x="320" y="660" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7gVdF0R3puTZTDRzPLGD-55" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;b2. find 分区的leader副本&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="560" width="250" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
