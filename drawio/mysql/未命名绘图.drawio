@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T16:16:28.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="vMIne6pSJbFqOdRIxyu7" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T16:19:05.103Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6-kWvQbYRx0WwC-f078j" version="20.2.7" type="github">
   <diagram id="gi1u2vlGa0-3R8m2AZVz" name="第 1 页">
     <mxGraphModel dx="1488" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,6 +64,26 @@
         </mxCell>
         <mxCell id="RBPp1nCXes4eAJ1BRV3U-19" value="存储引擎" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="10" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBPp1nCXes4eAJ1BRV3U-20" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="109.5" y="480" as="sourcePoint" />
+            <mxPoint x="649.5" y="480" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RBPp1nCXes4eAJ1BRV3U-21" value="5. 去主键索引获取结果集" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="450" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RBPp1nCXes4eAJ1BRV3U-22" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="649.5" y="530" as="sourcePoint" />
+            <mxPoint x="109.5" y="530" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RBPp1nCXes4eAJ1BRV3U-23" value="6. 返回结果集" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="500" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
