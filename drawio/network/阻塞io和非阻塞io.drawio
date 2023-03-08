@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T10:15:06.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fUznLjTzxhAQlP6OmKr3" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T10:34:09.804Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8qt9NS-IE40kXz5tw8sJ" version="20.4.1" type="github">
   <diagram id="OnTdiCpOdUWxgo_nxiWs" name="第 1 页">
-    <mxGraphModel dx="969" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1488" dy="907" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,37 +68,65 @@
         <mxCell id="bHkdKSp5bRuQLUvRUitD-31" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;没有数据读立即返回&lt;/font&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="440" y="932.5" width="130" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="bHkdKSp5bRuQLUvRUitD-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="-20" width="860" height="360" as="geometry" />
-        </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-33" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;font-weight: bold;&quot;&gt;写操作wirte函数&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="5" y="60" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-34" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;socket&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="180" y="85" width="80" height="50" as="geometry" />
+          <mxGeometry x="180" y="30" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-36" value="操作系统内核的发送缓冲区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="740" y="110" width="230" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bHkdKSp5bRuQLUvRUitD-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="bHkdKSp5bRuQLUvRUitD-38" target="bHkdKSp5bRuQLUvRUitD-39">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bHkdKSp5bRuQLUvRUitD-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;shape=link;" edge="1" parent="1" source="bHkdKSp5bRuQLUvRUitD-38" target="bHkdKSp5bRuQLUvRUitD-41">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="bHkdKSp5bRuQLUvRUitD-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;write数据&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="100" height="80" as="geometry" />
+          <mxGeometry x="530" y="60" width="230" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-39" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;qyoK-1654239552444&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;dOnc-1654239552442&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;EWOULDBLOCK&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;通过socket发送出去&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="455" y="245" width="210" height="60" as="geometry" />
+          <mxGeometry x="215" y="220" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-41" value="应用程序" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="280" y="110" width="130" height="60" as="geometry" />
+          <mxGeometry x="280" y="60" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bHkdKSp5bRuQLUvRUitD-43" value="" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bHkdKSp5bRuQLUvRUitD-36">
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-45" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHkdKSp5bRuQLUvRUitD-41" target="bHkdKSp5bRuQLUvRUitD-39">
           <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="610" y="139.5" as="sourcePoint" />
-            <mxPoint x="690" y="139.5" as="targetPoint" />
+            <mxPoint x="460" y="210" as="sourcePoint" />
+            <mxPoint x="310" y="210" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-46" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bHkdKSp5bRuQLUvRUitD-41" target="bHkdKSp5bRuQLUvRUitD-36">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="380" y="80" as="sourcePoint" />
+            <mxPoint x="380" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-47" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;write&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="400" y="50" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-48" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;write&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="325" y="150" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-50" value="&lt;span style=&quot;text-align: left;&quot;&gt;直接返回&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-53" value="等待将数据全部放到发送缓冲区才能返回" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="950" y="60" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-55" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bHkdKSp5bRuQLUvRUitD-53">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="760" y="89.5" as="sourcePoint" />
+            <mxPoint x="930" y="89.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-56" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: center;&quot;&gt;不能容纳所有数据&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="770" y="40" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-57" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px; text-align: center;&quot;&gt;可以放下程序所有数据&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="650" y="120" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-59" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="bHkdKSp5bRuQLUvRUitD-50">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="637" y="120" as="sourcePoint" />
+            <mxPoint x="827" y="120.5" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
