@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T10:05:37.233Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="6p-EGWn1aD60lhVZ4sIK" version="20.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T10:15:06.603Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="fUznLjTzxhAQlP6OmKr3" version="20.4.1" type="github">
   <diagram id="OnTdiCpOdUWxgo_nxiWs" name="第 1 页">
-    <mxGraphModel dx="969" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="1778" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,18 +69,13 @@
           <mxGeometry x="440" y="932.5" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="50" width="860" height="290" as="geometry" />
+          <mxGeometry x="160" y="-20" width="860" height="360" as="geometry" />
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-33" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;font-weight: bold;&quot;&gt;写操作wirte函数&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="5" y="60" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-34" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; font-size: 14px; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;socket&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="180" y="85" width="80" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="bHkdKSp5bRuQLUvRUitD-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;" edge="1" parent="1" source="bHkdKSp5bRuQLUvRUitD-36">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="140" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-36" value="操作系统内核的发送缓冲区" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="740" y="110" width="230" height="60" as="geometry" />
@@ -94,14 +89,17 @@
         <mxCell id="bHkdKSp5bRuQLUvRUitD-38" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;write数据&lt;/span&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="510" y="100" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bHkdKSp5bRuQLUvRUitD-39" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;qyoK-1654239552444&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;dOnc-1654239552442&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;EWOULDBLOCK&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;&quot;&gt;EWOULDBLOCK&lt;/font&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 1.75; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;或 EAGAIN 出错信息&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/article&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-39" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;qyoK-1654239552444&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;dOnc-1654239552442&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;EWOULDBLOCK&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;通过socket发送出去&lt;/span&gt;&lt;/div&gt;&lt;/article&gt;" style="whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="455" y="245" width="210" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="bHkdKSp5bRuQLUvRUitD-40" value="&lt;article data-content=&quot;[{&amp;quot;type&amp;quot;:&amp;quot;block&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;ECZx-1654239543630&amp;quot;,&amp;quot;name&amp;quot;:&amp;quot;paragraph&amp;quot;,&amp;quot;data&amp;quot;:{},&amp;quot;nodes&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;text&amp;quot;,&amp;quot;id&amp;quot;:&amp;quot;fXnB-1654239543628&amp;quot;,&amp;quot;leaves&amp;quot;:[{&amp;quot;text&amp;quot;:&amp;quot;读操作&amp;quot;,&amp;quot;marks&amp;quot;:[{&amp;quot;type&amp;quot;:&amp;quot;fontSize&amp;quot;,&amp;quot;value&amp;quot;:18},{&amp;quot;type&amp;quot;:&amp;quot;bold&amp;quot;}]}]}],&amp;quot;state&amp;quot;:{}}]&quot;&gt;&lt;div style=&quot;line-height: 1.75; text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;没有数据读立即返回&lt;/font&gt;&lt;/div&gt;&lt;/article&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="420" y="180" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bHkdKSp5bRuQLUvRUitD-41" value="应用程序" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="280" y="110" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bHkdKSp5bRuQLUvRUitD-43" value="" style="orthogonalLoop=1;jettySize=auto;html=1;rounded=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="bHkdKSp5bRuQLUvRUitD-36">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="610" y="139.5" as="sourcePoint" />
+            <mxPoint x="690" y="139.5" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
